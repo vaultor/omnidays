@@ -1,0 +1,11 @@
+{
+  "id": "omnidays",
+  "name": "OmniDays",
+  "version": "0.1.0",
+  "minAppVersion": "1.12.0",
+  "description": "Shows the number of days until or since a specified date.",
+  "author": "Vaultor",
+  "authorUrl": "https://github.com/vaultor/omnidays",
+  "fundingUrl": "https://buymeacoffee.com/vaultor",
+  "isDesktopOnly": false
+}
