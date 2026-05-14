@@ -23,7 +23,7 @@ export default class Omnidays extends Plugin {
 
     // This adds a simple command that can be triggered anywhere
     this.addCommand({
-      id: "open-modal-simple",
+      id: "open-modal-simple-command",
       name: "Open modal (simple)",
       callback: () => {
         new OmnidaysModal(this.app).open()
